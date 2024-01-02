@@ -1,5 +1,11 @@
 p{
-    background-color: rgb(18, 64, 49);
-    color: rgb(0, 187, 255);
+    
+    color: white;
     width: 500px;
+    background-color: black;
+}
+div{
+    border: 5px solid;
+    margin-top: 5px;
+    width: 600px;
 }
